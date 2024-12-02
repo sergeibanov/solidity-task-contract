@@ -1,7 +1,3 @@
-# Solidity Smart Contract Test Tasks
-
-This repository contains Solidity-based smart contracts created as part of a personal learning project. The focus of this project is to enhance skills in Solidity development through practical tasks.
-
 ## Features
 
 - **Task Management Contract**: Implements a Solidity smart contract for managing a list of tasks, showcasing basic data structures and functionality.
